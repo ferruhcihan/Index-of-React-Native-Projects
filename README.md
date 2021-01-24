@@ -16,6 +16,12 @@
             <td><a href="https://play.google.com/store/apps/details?id=com.easytodo" target="_blank">App details</a></td>
             <td><img src="https://github.com/frcihan/frcihan/blob/main/animation_500_kd7ngokt.gif" alt="gif"></td>
         </tr>
+        <tr>
+            <td>React Native Basic News Page</td>
+            <td><a href="https://github.com/frcihan/React-Native-Basic-News-Page" target="_blank">Repo details</a></td>
+            <td><a href="#" target="_blank">App details</a></td>
+            <td><img src="https://github.com/frcihan/frcihan/blob/main/animation_500_kd7ngokt.gif" alt="gif"></td>
+        </tr>
     </tbody>
 </table>
 
