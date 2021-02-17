@@ -28,6 +28,12 @@
             <td><a href="https://snack.expo.io/@farukcihan/axios-get-image" target="_blank">App details</a></td>
             <td><img src="https://github.com/frcihan/frcihan/blob/main/animation_500_kd7ngokt.gif" alt="gif"></td>
         </tr>
+        <tr>
+            <td>React Native Image Gallery App</td>
+            <td><a href="https://github.com/frcihan/react-native-image-gallery-app" target="_blank">Repo details</a></td>
+            <td><a href="https://github.com/frcihan/react-native-image-gallery-app/blob/master/README.md" target="_blank">App details</a></td>
+            <td><img src="https://github.com/frcihan/react-native-image-gallery-app/blob/master/imageGallery.gif" alt="gif"></td>
+        </tr>
     </tbody>
 </table>
 
