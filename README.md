@@ -1,4 +1,4 @@
-# Index-of-React-Projects
+# Index-of-React-Native-Projects
 
 <table>
     <thead>
